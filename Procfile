@@ -1,0 +1,1 @@
+web: java -Dserver.port=$PORT -jar  target/cidemo-0.1-SNAPSHOT.jar -Dspring.profiles.active=prod
