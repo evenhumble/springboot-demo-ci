@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/gabrielfeitosa/ci-spring-boot.svg?branch=master)](https://travis-ci.org/gabrielfeitosa/ci-spring-boot)
+[![Build Status](https://travis-ci.org/evenhumble/sprintboot-demo-ci.svg?branch=master)](https://github.com/evenhumble/springboot-demo-ci)
 # ci-spring-boot
 
 Example of Continuous Integration using Travis and Spring Boot.
