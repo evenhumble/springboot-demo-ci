@@ -24,11 +24,6 @@ This example is a simulation of a Task Manager.
   
   If you want to use a production profile, you need to change the database configurations into __application-prod.properties__. In my example I use a environment variable __${DATABASE_URL}__ to configure the database url. 
 
-##### Heroku
-
-Create an account and then create a new app.
-
-Into your new app add a Add-ons Postgresql database. By default, the environment variable DATABASE_URL will be created. 
 
   
 ##### Travis CI
@@ -53,7 +48,4 @@ $ mvn spring-boot:run
 $ mvn spring-boot:run -Dspring.profiles.active=prod
 ```
 
-License
-----
 
-MIT
